@@ -18,10 +18,10 @@ optional arguments:
 
 # Example:
 
-+For single IP:
++ For single IP:
 
-    `python sepy.py -i 192.168.1.1`
+    `$python sepy.py -i 192.168.1.1`
 
-+For IP-range:
++ For IP-range:
 
-    `python sepy.py -i 192.168.1.1-255`
+    `$python sepy.py -i 192.168.1.1-255`
