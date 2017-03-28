@@ -1,7 +1,7 @@
 3Com 3CDaemon FTP server Version 2.0
 Ability Server 2.34
 Sami FTP server 2.0.2
-FreeFloat FTP server (version 1.00)
+FreeFloat Ftp server (Version 1.00)
 CCProxy Telnet Service Ready
 ESMTP TABS Mail Server for Windows NT
 IMAP4rev1 MDaemon 9.6.4 ready
@@ -9,9 +9,9 @@ MailEnable Serevice, Version: 0-1.54
 NetDecision-HTTP-Server 1.0
 PSO Proxy 0.9
 SAMBAR
-Snipe 1.0
+Spipe 1.0
 TelSrv 1.5
 WDaemon 6.8.5
 WinGate 6.1.1
 Xitami
-
+YahooPOPs! Simple Mail Transfer Service Ready
