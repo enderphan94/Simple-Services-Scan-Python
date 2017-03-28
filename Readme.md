@@ -6,6 +6,10 @@ Written in Python
 
 Operating System: Linux (All Linux Distribution)
 
+# Introduction:
+
+Scan vulnerabilities of Linux common services such as: TCP/UDP, SSH, HTTP, HTTPs, SMTP based on the banners responses from server.
+
 # Usage:
 
 usage: sepy.py [-h] -i IP
